@@ -1,6 +1,5 @@
 def main():
+    print('Hello, World!')
     message = input('Enter message: ')
-    print(message)
-    message = input('Say something else: ')
-    print('New message: ', message)
+    print('Your message: ', message)
 main()
